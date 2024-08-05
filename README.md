@@ -1,85 +1,27 @@
+Frame Forge Video Editor
+Frame Forge is a browser-based video editor built with fabric.js, Next.js (a React framework), Tailwindcss, Mobx, and typescript. It allows you to create and edit videos directly in your browser, without needing to download any software.
 
+Simple and Intuitive Workflow
+Frame Forge provides a user-friendly interface for creating stunning videos. You can easily add various media elements and customize them to your liking.
 
+Here's a glimpse of the capabilities:
 
+Link to Animation and Effects Example
+(Technical details about the technology stack will be added later)
 
-# Fabric Video Editor
-
-Fabric Video Editor is a video editor that runs in the browser. It is built with fabric.js, Next.js (a React framework), Tailwindcss, Mobx, and typescript.
-
-
-## Tech Explanation
-
-todo
-
-
-## Features
-
-- [x] User can add
-  - [x] Text
-  - [x] Images
-  - [x] Video
-  - [x] Audio
-- [x] User can change
-  - [x] Canvas Background Color
-- [x] Timeline
-- [x] Export Video with Audio
-- [x] Animations
-- [x] Filters
-
-## Main Issues
-
-1. There might be problem in audio handling
-2. Exported video doesnt have time duration
-3. Exported video have flickering issue
-
-## Future Features
-
-3. Properties Editing panel
-4. Video Trimming
-
-## NextJs Default Guide (Updated)
-
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
-
-### Getting Started
-
-#### Setup
-
-1. Clone the repo
-
-2. Run the development server:
-
-```bash
-npm run dev
-```
-
-3. Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-#### Debugging
-
-1. Run the development server:
-
-```bash
-npm run dev
-```
-
-2. Then run `Launch Chrome against localhost` in `Run and Debug` tab in VSCode
-
-### Learn More
-
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-### Deploy on Vercel (Failing)
-
-Failing because of 50MB function limit on Vercel. Node-Canvas is too big to be deployed on Vercel.
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Core Features:
+Multiple Media Support: Add text, images, videos, and audio to your projects.
+Customization Options: Change canvas background color and edit existing elements.
+Visual Timeline: Manage your video editing process with a clear timeline view.
+Export Capabilities: Export your final video with high-quality audio.
+Animations and Effects: Enhance your videos with eye-catching animations and effects.
+Filters: Apply various filters to create unique visual styles.
+Current Focus Areas:
+Improving audio handling for a seamless audio experience.
+Ensuring exported videos have accurate time durations.
+Addressing potential flickering issues in exported videos.
+Upcoming Enhancements:
+Properties Editor Panel: Provide a dedicated panel for editing properties of media elements.
+Video Trimming Tool: Implement functionality for trimming unwanted video segments.
+Development Environment:
+This project utilizes Next.js for a faster and more efficient development experience. Refer to the provided guide for installation and setup instructions
