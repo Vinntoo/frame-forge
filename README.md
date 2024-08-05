@@ -7,15 +7,6 @@
 Fabric Video Editor is a video editor that runs in the browser. It is built with fabric.js, Next.js (a React framework), Tailwindcss, Mobx, and typescript.
 
 
-## Simple Working
-
-https://github.com/AmitDigga/fabric-video-editor/assets/7884106/89674396-a0d3-45a3-b1cd-51097142b8f8
-
-## Editor supports Animations and Effects
-
-https://github.com/AmitDigga/fabric-video-editor/assets/7884106/61c32181-59c2-427c-b816-c51b40bf8bcc
-
-
 ## Tech Explanation
 
 todo
